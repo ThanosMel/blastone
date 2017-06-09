@@ -1,0 +1,14 @@
+{
+	"name": "Darkbomb",
+	"baseManaCost": 2,
+	"type": "SPELL",
+	"heroClass": "WARLOCK",
+	"description": "Deal 3 damage",
+	"targetSelection": "ANY",
+	"class": "DamageSpell",
+	"value": 3,
+	"iconName": "darkbomb-210x300.png"
+
+
+
+}

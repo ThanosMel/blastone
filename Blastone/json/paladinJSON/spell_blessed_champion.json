@@ -1,0 +1,12 @@
+{
+	"name": "Blessed Champion",
+	"baseManaCost": 5,
+	"type": "SPELL",
+	"heroClass": "PALADIN",
+	"description": "Double a minion's Attack.",
+	"targetSelection": "MINIONS",
+	"class": "DoubleAttackSpell",
+	"value": 2,
+	"iconName":"blessed-champion-210x300.png"
+	
+}

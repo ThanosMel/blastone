@@ -1,0 +1,11 @@
+{
+	"name": "Goldshire Footman",
+	"baseManaCost": 1,
+	"type": "MINION",
+	"baseAttack": 1,
+	"baseHp": 2,
+	"heroClass": "NEUTRAL",
+	"description": "Taunt",
+	"class":"TauntClass",
+	"iconName": "goldshire-footman-210x300.png"
+}

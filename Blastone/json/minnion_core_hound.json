@@ -1,0 +1,10 @@
+{
+	"name": "Core Hound",
+	"baseManaCost": 7,
+	"type": "MINION",
+	"baseAttack": 9,
+	"baseHp": 5,
+	"heroClass": "NEUTRAL",
+	"description": "",
+	"iconName": "core-hound-210x300.png"
+}

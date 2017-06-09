@@ -1,0 +1,11 @@
+{
+	"name": "Fen Creeper",
+	"baseManaCost": 5,
+	"type": "MINION",
+	"baseAttack": 3,
+	"baseHp": 6,
+	"heroClass": "NEUTRAL",
+	"description": "Taunt",
+	"class":"TauntClass",
+	"iconName": "fen-creeper-210x300.png"
+}

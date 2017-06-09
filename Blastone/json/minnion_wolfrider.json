@@ -1,0 +1,11 @@
+{
+	"name": "Wolfrider",
+	"baseManaCost": 3,
+	"type": "MINION",
+	"baseAttack": 3,
+	"baseHp": 1,
+	"heroClass": "NEUTRAL",
+	"description": "Charge",
+	"class":"ChargeClass",
+	"iconName": "wolfrider-210x300.png"
+}

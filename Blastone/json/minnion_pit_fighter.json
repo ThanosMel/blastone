@@ -1,0 +1,10 @@
+{
+	"name": "Pit Fighter",
+	"baseManaCost": 5,
+	"type": "MINION",
+	"baseAttack": 5,
+	"baseHp": 6,
+	"heroClass": "NEUTRAL",
+	"iconName":"pit-fighter-210x300.png"
+	
+}

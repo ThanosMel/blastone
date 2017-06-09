@@ -1,0 +1,10 @@
+{
+	"name": "Boulderfist Ogre",
+	"baseManaCost": 6,
+	"type": "MINION",
+	"baseAttack": 6,
+	"baseHp": 7,
+	"heroClass": "NEUTRAL",
+	"description": "",
+	"iconName": "boulderfist-ogre-210x300.png"
+}

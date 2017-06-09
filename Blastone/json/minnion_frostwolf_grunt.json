@@ -1,0 +1,11 @@
+{
+	"name": "Frostwolf Grunt",
+	"baseManaCost": 2,
+	"type": "MINION",
+	"baseAttack": 2,
+	"baseHp": 2,
+	"heroClass": "NEUTRAL",
+	"description": "Taunt",
+	"class":"TauntClass",
+	"iconName": "frostwolf-grunt-210x300.png"
+}

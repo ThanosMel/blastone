@@ -1,0 +1,12 @@
+{
+	"name": "Blessing of Might",
+	"baseManaCost": 1,
+	"type": "SPELL",
+	"heroClass": "PALADIN",
+	"description": "Give a minion +3 Attack.",
+	"targetSelection": "MINIONS",
+	"class": "BuffSpell",
+	"attackBonus": 3,
+	"hpBonus":0,
+	"iconName": "blessing-of-might-210x300.png"
+}

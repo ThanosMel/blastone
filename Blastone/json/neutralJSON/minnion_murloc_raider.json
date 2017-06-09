@@ -1,0 +1,10 @@
+{
+	"name": "Murloc Raider",
+	"baseManaCost": 1,
+	"type": "MINION",
+	"baseAttack": 2,
+	"baseHp": 1,
+	"heroClass": "NEUTRAL",
+	"description": "",
+	"iconName": "murloc-raider-210x300.png"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Arcane Shot",
+	"baseManaCost": 1,
+	"type": "SPELL",
+	"heroClass": "HUNTER",
+	"description": "Deal 2 damage",
+	"targetSelection": "ANY",
+	"class": "DamageSpell",
+	"value": 2,
+	"iconName": "arcane-shot-210x300.png"
+
+}

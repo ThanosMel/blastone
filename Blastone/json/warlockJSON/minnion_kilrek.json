@@ -1,0 +1,12 @@
+{
+	"name": "Kil'rek",
+	"baseManaCost": 4,
+	"type": "MINION",
+	"baseAttack": 2,
+	"baseHp": 6,
+	"heroClass": "WARLOCK",
+	"description": "taunt",
+	"class": "TauntClass",
+	"targetSelection": "ANY",
+	"iconName": "kilrek-210x300.png"
+}

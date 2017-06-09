@@ -1,0 +1,9 @@
+{
+	"name": "Captured Jormungar",
+	"baseManaCost": 7,
+	"type": "MINION",
+	"baseAttack": 5,
+	"baseHp": 9,
+	"heroClass": "NEUTRAL",
+	"iconName":"captured-jormungar-210x300.png"
+}

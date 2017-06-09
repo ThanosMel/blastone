@@ -1,0 +1,10 @@
+{
+	"name": "Chillwind Yeti",
+	"baseManaCost": 4,
+	"type": "MINION",
+	"baseAttack": 4,
+	"baseHp": 5,
+	"heroClass": "NEUTRAL",
+	"description": "",
+	"iconName": "chillwind-yeti-210x300.png"
+}

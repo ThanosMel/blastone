@@ -1,0 +1,11 @@
+{
+	"name": "Bloodfen Raptor",
+	"baseManaCost": 2,
+	"type": "MINION",
+	"baseAttack": 3,
+	"baseHp": 2,
+	"heroClass": "NEUTRAL",
+	"description": "",
+	"iconName": "bloodfen-raptor-210x300.png"
+
+}

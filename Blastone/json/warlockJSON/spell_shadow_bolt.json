@@ -1,0 +1,14 @@
+{
+	"name": "Shadow Bolt",
+	"baseManaCost": 3,
+	"type": "SPELL",
+	"heroClass": "WARLOCK",
+	"description": "Deal 4 damage to a minion.",
+	"targetSelection": "MINIONS",
+	"class": "DamageSpell",
+	"value": 4,
+	"iconName": "shadow-bolt-210x300.png"
+
+
+
+}

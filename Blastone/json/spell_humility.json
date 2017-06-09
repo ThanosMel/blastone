@@ -1,0 +1,12 @@
+{
+	"name": "Humility",
+	"baseManaCost": 1,
+	"type": "SPELL",
+	"heroClass": "PALADIN",
+	"description": "Change a minion's Attack to 1.",
+	"targetSelection": "MINIONS",
+	"class": "SetAttackSpell",
+	"value": 1,
+	"iconName":"humility-210x300.png"	
+	
+}

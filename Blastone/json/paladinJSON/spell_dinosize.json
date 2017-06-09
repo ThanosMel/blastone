@@ -1,0 +1,12 @@
+{
+	"name": "Dinosize",
+	"baseManaCost": 8,
+	"type": "SPELL",
+	"heroClass": "PALADIN",
+	"description": "Set a minions Attack and Health to 10",
+	"targetSelection": "MINIONS",
+	"class": "BuffSpell",
+	"attackBonus": 10,
+	"hpBonus": 10,
+	"iconName": "dinosize-210x300.png"
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Volcanic Potion",
+	"baseManaCost": 3,
+	"type": "SPELL",
+	"heroClass": "MAGE",
+	"description": "Deal 2 damage to all minions",
+	"targetSelection": "NONE",
+	"class": "DamageSpell",
+	"target": "ALL_MINIONS",
+	"value": 2,
+	"iconName": "volcanic-potion-210x300.png"
+
+
+
+}

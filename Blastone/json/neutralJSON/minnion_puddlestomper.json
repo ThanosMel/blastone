@@ -1,0 +1,11 @@
+{
+	"name": "Puddlestomper",
+	"baseManaCost": 2,
+	"type": "MINION",
+	"baseAttack": 3,
+	"baseHp": 2,
+	"heroClass": "ANY",
+	"rarity": "NEUTRAL",
+	"iconName":"puddlestomper-210x300.png"
+	
+}

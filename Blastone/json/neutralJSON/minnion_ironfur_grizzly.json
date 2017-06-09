@@ -1,0 +1,11 @@
+{
+	"name": "Ironfur Grizzly",
+	"baseManaCost": 3,
+	"type": "MINION",
+	"baseAttack": 3,
+	"baseHp": 3,
+	"heroClass": "NEUTRAL",
+	"description": "Taunt",
+	"class":"TauntClass",
+	"iconName": "ironfur-grizzly-210x300.png"
+}

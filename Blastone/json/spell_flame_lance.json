@@ -1,0 +1,14 @@
+{
+	"name": "Flame Lance",
+	"baseManaCost": 5,
+	"type": "SPELL",
+	"heroClass": "MAGE",
+	"description": "Deal 8 damage to a minnion",
+	"targetSelection": "MINIONS",	
+	"class": "DamageSpell",
+	"value": 8,
+	"iconName": "flame-lance-210x300.png"
+
+
+
+}

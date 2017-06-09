@@ -1,0 +1,11 @@
+{
+	"name": "Silver Hand Recruit",
+	"baseManaCost": 1,
+	"type": "MINION",
+	"baseAttack": 1,
+	"baseHp": 1,
+	"heroClass": "PALADIN",
+	"description": "",
+	"targetSelection": "NONE",
+	"iconName": "silver-hand-recruit-hd-210x300.png"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Bluegill Warrior",
+	"baseManaCost": 2,
+	"type": "MINION",
+	"baseAttack": 2,
+	"baseHp": 1,
+	"heroClass": "NEUTRAL",
+	"description": "Charge",
+	"class":"ChargeClass",
+	"iconName": "bluegill-warrior-210x300.png"
+}

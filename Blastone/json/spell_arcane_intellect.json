@@ -1,0 +1,12 @@
+{
+	"name": "Arcane Intellect",
+	"baseManaCost": 3,
+	"type": "SPELL",
+	"heroClass": "MAGE",
+	"description": "Draw 2 cards",
+	"targetSelection": "NONE",
+	"class": "DrawCardSpell",
+	"value": 2,
+	"iconName": "arcane-intellect-210x300.png"
+
+}

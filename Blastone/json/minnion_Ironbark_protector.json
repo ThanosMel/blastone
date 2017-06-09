@@ -1,0 +1,11 @@
+{
+	"name": "Ironbark Protector",
+	"baseManaCost": 8,
+	"type": "MINION",
+	"baseAttack": 8,
+	"baseHp": 8,
+	"heroClass": "NEUTRAL",
+	"description": "Taunt",
+	"class":"TauntClass",
+	"iconName": "ironbark-protector-210x300.png"
+}

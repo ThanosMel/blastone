@@ -1,0 +1,14 @@
+{
+	"name": "Pyroblast",
+	"baseManaCost": 10,
+	"type": "SPELL",
+	"heroClass": "MAGE",
+	"description": "Deal 10 damage",
+	"targetSelection": "ANY",
+	"class": "DamageSpell",
+	"value": 10,
+	"iconName": "pyroblast-210x300.png"
+
+
+
+}

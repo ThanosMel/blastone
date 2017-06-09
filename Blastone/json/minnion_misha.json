@@ -1,0 +1,12 @@
+{
+	"name": "Misha",
+	"baseManaCost": 3,
+	"type": "MINION",
+	"baseAttack": 4,
+	"baseHp": 4,
+	"heroClass": "HUNTER",
+	"description": "Taunt",
+	"class": "TauntClass",
+	"targetSelection": "ANY",
+	"iconName": "misha-1-210x300.png"
+}

@@ -1,0 +1,14 @@
+{
+	"name": "Arcane Blast",
+	"baseManaCost": 1,
+	"type": "SPELL",
+	"heroClass": "MAGE",
+	"description": "Deal 2 damage to a minnion. This spell gets double bonus from Spell Damage",
+	"targetSelection": "MINIONS",
+	"class": "DamageSpell",
+	"value": 2,
+	"iconName": "arcane-blast-210x300.png"
+
+
+
+}

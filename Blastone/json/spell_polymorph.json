@@ -1,0 +1,12 @@
+{
+	"name": "Polymorph",
+	"baseManaCost": 1,
+	"type": "SPELL",
+	"heroClass": "MAGE",
+	"description": "Transform a minnion into a 1/1 Sheep",
+	"targetSelection": "MINIONS",
+	"class": "BuffSpell",
+	"attackBonus": 1,
+	"hpBonus": 1,
+	"iconName": "polymorph-210x300.png"
+}

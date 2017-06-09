@@ -1,0 +1,12 @@
+{
+	"name": "Bog Creeper",
+	"baseManaCost": 7,
+	"type": "MINION",
+	"baseAttack": 6,
+	"baseHp": 8,
+	"heroClass": "NEUTRAL",
+	"class": "TauntClass",
+	"description": "Taunt",
+	"iconName":"bog-creeper-210x300.png"
+	
+}

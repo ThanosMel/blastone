@@ -1,0 +1,10 @@
+{
+	"name": "River Crocolisk",
+	"baseManaCost": 2,
+	"type": "MINION",
+	"baseAttack": 2,
+	"baseHp": 3,
+	"heroClass": "NEUTRAL",
+	"description": "",
+	"iconName": "river-crocolisk-210x300.png"
+}

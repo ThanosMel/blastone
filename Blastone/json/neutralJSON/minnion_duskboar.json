@@ -1,0 +1,10 @@
+{
+	"name": "Duskboar",
+	"baseManaCost": 2,
+	"type": "MINION",
+	"baseAttack": 4,
+	"baseHp": 1,
+	"heroClass": "NEUTRAL",
+	"iconName":"duskboar-210x300.png"
+	
+}

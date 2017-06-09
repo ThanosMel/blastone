@@ -1,0 +1,14 @@
+{
+	"name": "Flamecannon",
+	"baseManaCost": 2,
+	"type": "SPELL",
+	"heroClass": "MAGE",
+	"description": "Deal 4 damage to a random enemy minion.",
+	"targetSelection": "NONE",
+	"class": "DamageSpell",
+	"target": "ENEMY_MINIONS",
+	"value": 4,
+	"randomTarget": "true",
+	"iconName":"flamecannon-210x300.png"
+	
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Deadly Shot",
+	"baseManaCost": 3,
+	"type": "SPELL",
+	"heroClass": "HUNTER",
+	"description": "Destroy a random enemy minion.",
+	"targetSelection": "NONE",
+	"class": "SetHpSpell",
+	"target": "ENEMY_MINIONS",
+	"value": 0,
+	"randomTarget": "true",
+	"iconName": "deadly-shot-210x300.png"
+
+
+
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Divine Strength",
+	"baseManaCost": 1,
+	"type": "SPELL",
+	"heroClass": "PALADIN",
+	"description": "Give a minion +1/+2.",
+	"targetSelection": "MINIONS",
+	"class": "BuffSpell",
+	"attackBonus": 1,
+	"hpBonus": 2,
+	"iconName": "divine-strength-210x300.png"
+}

@@ -1,0 +1,10 @@
+{
+	"name": "Wisp",
+	"baseManaCost": 0,
+	"type": "MINION",
+	"baseAttack": 1,
+	"baseHp": 1,
+	"heroClass": "NEUTRAL",
+	"iconName":"wisp-210x300.png"
+	
+}

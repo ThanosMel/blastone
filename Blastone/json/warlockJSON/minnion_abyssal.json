@@ -1,0 +1,10 @@
+{
+	"name": "Abyssal",
+	"baseManaCost": 6,
+	"type": "MINION",
+	"baseAttack": 6,
+	"baseHp": 6,
+	"heroClass": "WARLOCK",
+	"description": "",
+	"iconName": "abyssaal-210x300.png"
+}

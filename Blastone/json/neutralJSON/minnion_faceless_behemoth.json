@@ -1,0 +1,10 @@
+{
+	"name": "Faceless Behemoth",
+	"baseManaCost": 10,
+	"type": "MINION",
+	"baseAttack": 10,
+	"baseHp": 10,
+	"heroClass": "NEUTRAL",
+	"iconName":"faceless-behemoth-210x300.png"
+	
+}

@@ -1,0 +1,14 @@
+{
+	"name": "Flamestrike",
+	"baseManaCost": 7,
+	"type": "SPELL",
+	"heroClass": "MAGE",
+	"description": "Deal 4 damage to all enemy minnions",
+	"targetSelection": "NONE",
+	"class": "DamageSpell",
+	"target": "ALL_ENEMY_MINIONS",
+	"value": 4,
+	"iconName": "flamestrike-210x300.png"
+
+
+}

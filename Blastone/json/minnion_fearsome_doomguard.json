@@ -1,0 +1,11 @@
+{
+	"name": "Fearsome Doomguard",
+	"baseManaCost": 7,
+	"type": "MINION",
+	"baseAttack": 6,
+	"baseHp": 8,
+	"heroClass": "WARLOCK",
+	"race": "DEMON",
+	"description": "",
+	"iconName":"fearsome-doomguard -210x300.png"
+}

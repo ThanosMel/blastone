@@ -1,0 +1,15 @@
+{
+	"name": "Twisting Nether",
+	"baseManaCost": 8,
+	"type": "SPELL",
+	"heroClass": "WARLOCK",
+	"description": "Destroy all minions.",
+	"targetSelection": "NONE",
+	"class": "SetHpSpell",
+	"value" :0,
+	"target": "ALL_MINIONS",
+	"iconName": "twisting-nether-210x300.png"
+
+
+
+}

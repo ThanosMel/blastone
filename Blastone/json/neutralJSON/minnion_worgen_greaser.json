@@ -1,0 +1,10 @@
+{
+	"name": "Worgen Greaser",
+	"baseManaCost": 4,
+	"type": "MINION",
+	"baseAttack": 6,
+	"baseHp": 3,
+	"heroClass": "NEUTRAL",
+	"iconName":"worgen-greaser-210x300.png"
+	
+}

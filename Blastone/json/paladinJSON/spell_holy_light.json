@@ -1,0 +1,11 @@
+{
+	"name": "Holy Light",
+	"baseManaCost": 2,
+	"type": "SPELL",
+	"heroClass": "PALADIN",
+	"description": "Restore 6 Health.",
+	"targetSelection": "ANY",
+	"class": "HealSpell",
+	"value": 6,
+	"iconName": "holy-light-210x300.png"
+}

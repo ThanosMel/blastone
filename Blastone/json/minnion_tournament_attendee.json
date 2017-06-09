@@ -1,0 +1,12 @@
+{
+	"name": "Tournament Attendee",
+	"baseManaCost": 1,
+	"type": "MINION",
+	"baseAttack": 2,
+	"baseHp": 1,
+ 	"heroClass": "NEUTRAL",
+	"description": "Taunt",
+	"class":"TauntClass",
+	"iconName":"tournament-attendee-210x300.png"
+	
+}

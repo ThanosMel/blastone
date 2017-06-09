@@ -1,0 +1,11 @@
+{
+	"name": "Carrion Grub",
+	"baseManaCost": 3,
+	"type": "MINION",
+	"baseAttack": 2,
+	"baseHp": 5,
+	"heroClass": "HUNTER",
+	"description": "",
+	"targetSelection": "ANY",
+	"iconName": "carrion-grub-210x300.png"
+}
