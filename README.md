@@ -1,4 +1,4 @@
-# Team16_Code
+# ReadMe
 -Το πρόγραμμα τρεχει χωρίς καvένα error.
 -Η main βρίσκετε στο πακέτο uom.tl.gui.maingame.
 -H βιβλιοθήκη που απαιτείται για να τρέξει java-json.jar.
